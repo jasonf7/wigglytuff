@@ -1,0 +1,27 @@
+PODS:
+  - CircleProgressBar (0.31)
+  - MultiSelectSegmentedControl (1.1.0)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - CircleProgressBar (~> 0.31)
+  - MultiSelectSegmentedControl
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+
+EXTERNAL SOURCES:
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  SwiftyJSON:
+    :commit: 73670b94292b8d8496c398a973f56ac67789ba9f
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  CircleProgressBar: 1de5fc6ba919174b845bc2447720db67f8cb6c08
+  MultiSelectSegmentedControl: 54fb23c997b971eff621cfcf965ff1613d99c3d2
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: 05378fccdd20cbf2675e704969bbd8a7551e67bd
+
+COCOAPODS: 1.0.0
